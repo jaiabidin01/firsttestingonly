@@ -8,7 +8,7 @@ longName: food
 name: Food
 penaltyLength: 20
 penaltyLowerBound: 0
-price: 6908
+price: 69083
 sprite:
   filename: cargoes/food.png
   left: 0
