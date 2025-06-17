@@ -6,12 +6,12 @@ id: 1
 label: ACID
 longName: acid
 name: Acid
-penaltyLength: 48
-penaltyLowerBound: 24
-price: 4482
+penaltyLength: 51
+penaltyLowerBound: 76
+price: 41121
 sprite:
   filename: cargoes/acid.png
   left: 0
   top: 0
 unitName: Litres
-weight: 24
+weight: 32
