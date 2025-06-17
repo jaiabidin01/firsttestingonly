@@ -1,14 +1,14 @@
 abbreviation: AS
 available: true
-classes: 32
+classes: 544
 colour: 61
 id: 3
 label: STAL
 longName: alloy steel
 name: Alloy Steel
-penaltyLength: 241
-penaltyLowerBound: 14
-price: 5263
+penaltyLength: 218
+penaltyLowerBound: 37
+price: 41121
 sprite:
   filename: cargoes/alloy-steel.png
   left: 0
