@@ -110,7 +110,7 @@ cargoProduction:
 - FMSP
 - VEHI
 colour: 141
-fundCostMultiplier: 145
+fundCostMultiplier: 92
 id: 0
 layout:
 - - - 0
