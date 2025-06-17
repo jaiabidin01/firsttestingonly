@@ -1,14 +1,14 @@
 abbreviation: AM
 available: true
-classes: 32
+classes: 544
 colour: 166
 id: 4
 label: ALUM
 longName: aluminium
 name: Aluminium
-penaltyLength: 248
-penaltyLowerBound: 7
-price: 5756
+penaltyLength: 211
+penaltyLowerBound: 44
+price: 41121
 sprite:
   filename: cargoes/aluminium.png
   left: 0
